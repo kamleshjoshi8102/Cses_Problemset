@@ -25,7 +25,6 @@ int main()
                  max=count;
              }
              count=1;
- 
          }
      }
 cout<<max;
